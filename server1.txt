@@ -1,0 +1,3 @@
+serverj 80
+serverj 22
+serverj 3306
